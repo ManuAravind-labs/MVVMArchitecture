@@ -1,4 +1,4 @@
 # MVVMArchitecture
-Model view viewModel Deaign Pattern
+Model view viewModel Design Pattern
 
 
